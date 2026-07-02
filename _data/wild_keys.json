@@ -1,0 +1,149 @@
+[
+  {
+    "key": "alluxio.azurecr.io",
+    "seen_in": [
+      "integration/oci-proxy/README.md:316",
+      "integration/oci-proxy/README.md:320",
+      "integration/oci-proxy/README.md:321",
+      "integration/oci-proxy/REST_API.md:38",
+      "integration/oci-proxy/REST_API.md:59",
+      "integration/oci-proxy/REST_API.md:108"
+    ],
+    "count": 6,
+    "was_in_pk_history": false
+  },
+  {
+    "key": "alluxio.client.cache.dirs",
+    "seen_in": [
+      "integration/kubernetes/edge/helm-charts/trino/conf/withEdge.yaml:62",
+      "integration/kubernetes/edge/helm-charts/trino/conf/withEdge.yaml:104"
+    ],
+    "count": 2,
+    "was_in_pk_history": false
+  },
+  {
+    "key": "alluxio.client.cache.size",
+    "seen_in": [
+      "integration/kubernetes/edge/helm-charts/trino/conf/withEdge.yaml:61"
+    ],
+    "count": 1,
+    "was_in_pk_history": false
+  },
+  {
+    "key": "alluxio.dora.enabled",
+    "seen_in": [
+      "integration/kubernetes/edge/helm-charts/trino/conf/withEdge.yaml:58",
+      "integration/kubernetes/edge/helm-charts/trino/conf/withEdge.yaml:101"
+    ],
+    "count": 2,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.master.audit",
+    "seen_in": [
+      "dev/docs/BUILD.md:64"
+    ],
+    "count": 1,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.underfs.s3.access.key",
+    "seen_in": [
+      "dev/docs/ALLUXIO-OPS-PLAYBOOK.md:219"
+    ],
+    "count": 1,
+    "was_in_pk_history": false
+  },
+  {
+    "key": "alluxio.underfs.s3.aws.access.key",
+    "seen_in": [
+      "dev/docs/ALLUXIO-OPS-PLAYBOOK.md:222"
+    ],
+    "count": 1,
+    "was_in_pk_history": false
+  },
+  {
+    "key": "alluxio.underfs.s3.secret.key",
+    "seen_in": [
+      "dev/docs/ALLUXIO-OPS-PLAYBOOK.md:220"
+    ],
+    "count": 1,
+    "was_in_pk_history": false
+  },
+  {
+    "key": "alluxio.user.metrics.collection.enabled",
+    "seen_in": [
+      "integration/kubernetes/edge/helm-charts/trino/conf/withEdge.yaml:60",
+      "integration/kubernetes/edge/helm-charts/trino/conf/withEdge.yaml:63",
+      "integration/kubernetes/edge/helm-charts/trino/conf/withEdge.yaml:105"
+    ],
+    "count": 3,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.worker.data.load.staging.buffer.size",
+    "seen_in": [
+      "dev/docs/DISTRIBUTED-LOAD-DESIGN.md:270",
+      "dev/docs/DISTRIBUTED-LOAD-DESIGN.md:287"
+    ],
+    "count": 2,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.worker.data.load.staging.enabled",
+    "seen_in": [
+      "dev/docs/DISTRIBUTED-LOAD-DESIGN.md:288"
+    ],
+    "count": 1,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.worker.http.port",
+    "seen_in": [
+      "integration/oci-proxy/REST_API.md:11"
+    ],
+    "count": 1,
+    "was_in_pk_history": false
+  },
+  {
+    "key": "alluxio.worker.job.executor.task.queue.size",
+    "seen_in": [
+      "dev/docs/DISTRIBUTED-LOAD-DESIGN.md:279"
+    ],
+    "count": 1,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.worker.load.admission.budget.ratio",
+    "seen_in": [
+      "dev/docs/DISTRIBUTED-LOAD-DESIGN.md:371"
+    ],
+    "count": 1,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.worker.oci.registry.cache.blacklist.local",
+    "seen_in": [
+      "integration/oci-proxy/README.md:209"
+    ],
+    "count": 1,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.worker.s3",
+    "seen_in": [
+      "dev/docs/ALLUXIO-OPS-PLAYBOOK.md:364"
+    ],
+    "count": 1,
+    "was_in_pk_history": true
+  },
+  {
+    "key": "alluxio.worker.s3.only.read.current.worker.data.enabled",
+    "seen_in": [
+      "integration/proxy/README.md:208",
+      "dev/docs/ALLUXIO-OPS-PLAYBOOK.md:318"
+    ],
+    "count": 2,
+    "was_in_pk_history": true
+  }
+]
